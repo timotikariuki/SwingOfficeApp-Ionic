@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">swingofficeapp</string>
+    <string name="title_activity_main">swingofficeapp</string>
+    <string name="package_name">ionic.swingofficeapp</string>
+    <string name="custom_url_scheme">ionic.swingofficeapp</string>
+</resources>

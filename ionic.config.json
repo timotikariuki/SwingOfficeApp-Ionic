@@ -1,0 +1,7 @@
+{
+  "name": "swingofficeapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
