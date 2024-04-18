@@ -1,0 +1,49 @@
+{
+        "generic_app": false,
+        "lang": "fr",
+        "school_name": "Swingville",
+        "school": "swingville",
+        "mail_school": "swingvilles@gmail.com",
+        "sub_folder": "swingville_fkgjBdee03S79vbf",
+        "ios_id": "es.swingoffice.blackbottom.app",
+        "generic": {
+                "school_name": "SwingOffice",
+                "mail_school": "info@swingoffice.com",
+                "logos": {
+                        "header_app": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice_logo_cuadrado.jpg",
+                        "logo_horizontal": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png",
+                        "logo_login": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png",
+                        "logo_vertical": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png"
+                }
+        },
+        "url": {
+                "s3": "https://s3.eu-central-1.amazonaws.com/swingoffice.public/",
+                "services": "https://backapi.swingoffice.click/m/index.php/",
+                "images": "/img",
+                "images_slash": "/img/",
+                "news": "/newsapp",
+                "news_slash": "/newsapp/",
+                "commercials": "/commercials",
+                "commercials_slash": "/commercials/",
+                "videos": "/vid",
+                "videos_slash": "/vid/",
+                "videos_comming": "/vid/coomingsoon",
+                "videos_comming_slash": "/vid/coomingsoon/",
+                "videos_comming_soon": "/comming-soon-video-tandem.m4v"
+        },
+        "logos": {
+                "header_app": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/LogoSwingville-web-200-cuadrado.png",
+                "logo_horizontal": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/LogoSwingville-web-200-alargado.png",
+                "logo_login": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/LogoSwingville-web-200-alargado.png",
+                "logo_vertical": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/logo-tandem-cuadrado.png"
+        },
+        "settings": {
+                "wantTaxiOption": false,
+                "wantPaymentsOptionLeft": true,
+                "wantPaymentsOptionBottom": true
+        },
+        "push": {
+                "appId": "c5f1ec7c-7fba-4893-a8fb-4683493b45c3",
+                "projectNumber": "329105138469"
+        }
+}

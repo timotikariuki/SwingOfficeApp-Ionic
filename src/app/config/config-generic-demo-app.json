@@ -1,0 +1,45 @@
+{
+        "generic_app": true,
+        "lang": "en",
+        "school_name": "Demo",
+        "school": "demo",
+        "mail_school": "info@swingoffice.com",
+        "sub_folder": "demo_2034lsr459bELk88Ers4598",
+        "ios_id": "es.swingoffice.app",
+        "generic": {
+                "school_name": "SwingOffice",
+                "mail_school": "info@swingoffice.com",
+                "logos": {
+                        "header_app": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice_logo_cuadrado.jpg",
+                        "logo_horizontal": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png",
+                        "logo_login": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png",
+                        "logo_vertical": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png"
+                }
+        },
+        "url": {
+                "s3": "https://s3.eu-central-1.amazonaws.com/swingoffice.public/",
+                "services": "https://backapi.swingoffice.click/m/index.php/",
+                "images": "/img",
+                "images_slash": "/img/",
+                "news": "/newsapp",
+                "news_slash": "/newsapp/",
+                "commercials": "/commercials",
+                "commercials_slash": "/commercials/",
+                "videos": "/vid",
+                "videos_slash": "/vid/",
+                "videos_comming": "/vid/coomingsoon",
+                "videos_comming_slash": "/vid/coomingsoon/",
+                "videos_comming_soon": "/comming-soon-video-tandem.m4v"
+        },
+        "logos": {
+                "header_app": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice_logo_cuadrado.jpg",
+                "logo_horizontal": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png",
+                "logo_login": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png",
+                "logo_vertical": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice_logo_cuadrado.jpg"
+        },
+        "settings": {
+                "wantTaxiOption": true,
+                "wantPaymentsOptionLeft": true,
+                "wantPaymentsOptionBottom": false
+        }
+}

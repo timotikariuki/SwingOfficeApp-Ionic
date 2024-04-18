@@ -1,0 +1,46 @@
+{
+        "generic_app": false,
+        "lang": "es",
+        "school_name": "Tandem Club",
+        "school": "tandemclub",
+        "mail_school": "info@tandem-club.com",
+        "sub_folder": "tandem_34530EWR34iLw5618",
+        "ios_id": "es.swingoffice.tandem.app",
+        "generic": {
+                "school_name": "SwingOffice",
+                "mail_school": "info@swingoffice.com",
+                "logos": {
+                        "header_app": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice_logo_cuadrado.jpg",
+                        "logo_horizontal": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png",
+                        "logo_login": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png",
+                        "logo_vertical": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/swingoffice-logo.png"
+                }
+        },
+        "url": {
+                "s3": "https://s3.eu-central-1.amazonaws.com/swingoffice.public/",
+                "services": "https://swingoffice-filament.test/api/v1/",
+                "_services": "http://swingoffice-schedule.test/api/",
+                "images": "/img",
+                "images_slash": "/img/",
+                "news": "/newsapp",
+                "news_slash": "/newsapp/",
+                "commercials": "/commercials",
+                "commercials_slash": "/commercials/",
+                "videos": "/vid",
+                "videos_slash": "/vid/",
+                "videos_comming": "/vid/coomingsoon",
+                "videos_comming_slash": "/vid/coomingsoon/",
+                "videos_comming_soon": "/comming-soon-video-tandem.m4v"
+        },
+        "logos": {
+                "header_app": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/logo-tandem-cuadrado.png",
+                "logo_horizontal": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/logo-tandem-horizontal.png",
+                "logo_login": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/logo-tandem-horizontal.png",
+                "logo_vertical": "https://s3-eu-central-1.amazonaws.com/swingoffice.public/logo-tandem-cuadrado.png"
+        },
+        "settings": {
+                "wantTaxiOption": true,
+                "wantPaymentsOptionLeft": true,
+                "wantPaymentsOptionBottom": false
+        }
+}
